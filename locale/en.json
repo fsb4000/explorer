@@ -117,8 +117,10 @@
     // Markets
     "poloniex": "Poloniex",
     "bittrex": "Bittrex",
+    "bleutrade": "Bleutrade",
     "yobit": "Yobit",
     "empoex": "Empoex",
+    "cryptsy": "Cryptsy",
 
     // Heavy rewards view
     "heavy_title": "Reward/voting information",
